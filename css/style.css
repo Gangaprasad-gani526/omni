@@ -32,7 +32,7 @@
 }
 
 btn,
-.btn:link,
+btn:link,
 btn:visited {
   color: #fff;
   font-size: 2rem;
